@@ -163,20 +163,6 @@ Ensemble methods showed improved predictive capability by capturing complex rela
 
 ---
 
-## Results Summary
-
-The trained models were evaluated on unseen test data and compared using standard classification metrics.
-
-| Model               | Accuracy        | Precision | Recall | F1 Score |
-| ------------------- | --------------- | --------- | ------ | -------- |
-| Logistic Regression | Notebook Output |           |        |          |
-| K Nearest Neighbors | Notebook Output |           |        |          |
-| Random Forest       | Notebook Output |           |        |          |
-
-*Replace with actual results from notebook.*
-
----
-
 ## Best Model Analysis
 
 The best performing model was selected based on overall evaluation metrics.
